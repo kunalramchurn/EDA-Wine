@@ -11,7 +11,7 @@ The role of this EDA is to identify significant patterns and trends in wine cons
 #### Content of this notebook
 1. Dataset exploration: 
 
-- Understanding, preparing and defining data and its data type.
+- Understanding, preparing and defining data and its data type
 - Features exploration
 - Descriptive statistics of the numerical features
 - Dataset Screening: Check for Null,duplicate values and kernel optimization
@@ -24,8 +24,8 @@ The role of this EDA is to identify significant patterns and trends in wine cons
 3. Exploratory Data Analysis(EDA): 
 - Non-Graphical Analysis
 - Visualizing Categorical features
-- Graphical Univariate Analysis(visualizing the distribution of 1 feature) and search for Skewness in individual key features
+- Graphical Univariate Analysis(visualizing the distribution of 1 feature) and search for Skewness and Kurtosis in individual key features
 - Graphical Bivariate Analysis(Visualizing relationship between 2 features)
-- Graphical Multivariate Analysis(Visualzing relationship between multiple features)
+- Graphical Multivariate Analysis(Visualizing relationship between multiple features)
 
 4. Main Insights/ Key Take-aways
