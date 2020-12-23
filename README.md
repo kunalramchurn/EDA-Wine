@@ -14,7 +14,7 @@ The role of this EDA is to identify significant patterns and trends in wine cons
 - Understanding, preparing and defining data and its data type
 - Features exploration
 - Descriptive statistics of the numerical features
-- Dataset Screening: Check for Null,duplicate values and kernel optimization
+- Dataset Screening: check for null,duplicate values and kernel optimization
 
 
 2. Data Transformation(Preparing Data before EDA): 
